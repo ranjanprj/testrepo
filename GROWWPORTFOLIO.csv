@@ -1,0 +1,169 @@
+ACTION,REASON,CODE,TYPE,SCRIPNAME,P/E,RECORD PROFITS SCORE/10,DISCOUNT SCORE/10,PRIORITY,SCREENER URL
+ADD,532371,TTML,close <= sma50 and rsi_val <= 40,EMERGING,-999,6,6,-1011,https://www.screener.in/company/532371/consolidated/
+ADD,500032,BAJAJHIND,close < sma50,EMERGING,-999,6,2,-1007,https://www.screener.in/company/500032/consolidated/
+ADD,540173,PNBHOUSING,close <= sma50 and rsi_val <= 40,EMERGING,9,10,6,-7,https://www.screener.in/company/540173/consolidated/
+ADD,543257,IRFC,close <= sma50 and rsi_val <= 40,DIVIDEND,5,2,6,-3,https://www.screener.in/company/543257/consolidated/
+ADD,532805,REDINGTON,close <= sma50 and rsi_val <= 40,EMERGING,9,6,6,-3,https://www.screener.in/company/532805/consolidated/
+ADD,532955,RECLTD,close < sma50,DIVIDEND,3,2,2,-1,https://www.screener.in/company/532955/consolidated/
+ADD,541956,IRCON,close < sma50,EMERGING,7,6,2,-1,https://www.screener.in/company/541956/consolidated/
+ADD,543237,MAZDOCK,close <= sma50 and rsi_val <= 40,LONGTERM,14,6,6,2,https://www.screener.in/company/543237/consolidated/
+ADD,506590,PCBL,close <= sma50 and rsi_val <= 40,DIVIDEND,10,2,6,2,https://www.screener.in/company/506590/consolidated/
+ADD,532733,SUNTV,close < sma50,EMERGING,10,6,2,2,https://www.screener.in/company/532733/consolidated/
+ADD,540678,COCHINSHIP,close <= sma50 and rsi_val <= 40,LONGTERM,11,2,6,3,https://www.screener.in/company/540678/consolidated/
+ADD,500295,VEDL,close < sma50,DIVIDEND,7,2,2,3,https://www.screener.in/company/500295/consolidated/
+ADD,526371,NMDC,close < sma50,DIVIDEND,7,2,2,3,https://www.screener.in/company/526371/consolidated/
+ADD,500520,M&M,close < sma200 and rsi < 40  and close < _52_week_low / or rsi_val <= 30,LONGTERM,16,2,10,4,https://www.screener.in/company/500520/consolidated/
+ADD,532365,DSSL,close <= sma50 and rsi_val <= 40,LONGTERM,15.2,2,6,7.2,https://www.screener.in/company/532365/consolidated/
+ADD,500188,HINDZINC,close < sma50,DIVIDEND,12,2,2,8,https://www.screener.in/company/500188/consolidated/
+ADD,500180,HDFCBANK,close < sma50,EMERGING,20,10,2,8,https://www.screener.in/company/500180/consolidated/
+ADD,500008,AMARAJABAT,close < sma50,LONGTERM,15,2,2,11,https://www.screener.in/company/500008/consolidated/
+ADD,500400,TATAPOWER,close < sma50,EMERGING,21,6,2,13,https://www.screener.in/company/500400/consolidated/
+ADD,522205,PRAJIND,close <= sma50 and rsi_val <= 40,EMERGING,29,10,6,13,https://www.screener.in/company/522205/consolidated/
+ADD,532540,TCS,close <= sma50 and rsi_val <= 40,EMERGING,29,10,6,13,https://www.screener.in/company/532540/consolidated/
+ADD,506248,AMNPLST,close < sma200 and rsi < 40  and close < _52_week_low / or rsi_val <= 30,EMERGING,21.3,6,10,15.3,https://www.screener.in/company/506248/consolidated/
+ADD,543720,KFINTECH,close < sma200 and rsi < 40  and close < _52_week_low / or rsi_val <= 30,EMERGING,32,6,10,16,https://www.screener.in/company/543720/consolidated/
+TRIM,531531,HATSUN,HIGH P/E RATIO,EMERGING,6837,6,0,6831,https://www.screener.in/company/531531/consolidated/
+ADD,542011,GRSE,close < sma50,LONGTERM,22,2,2,18,https://www.screener.in/company/542011/consolidated/
+TRIM,500570,TATAMOTORS,HIGH P/E RATIO,EMERGING,467,10,0,457,https://www.screener.in/company/500570/consolidated/
+TRIM,532407,MOSCHIP,Market CAP is below 5000,EMERGING,188,6,0,182,https://www.screener.in/company/532407/consolidated/
+TRIM,500251,TRENT,HIGH P/E RATIO,EMERGING,147,10,0,137,https://www.screener.in/company/500251/consolidated/
+TRIM,505283,KIRLPNU,Market CAP is below 5000,EMERGING,112,10,0,102,https://www.screener.in/company/505283/consolidated/
+TRIM,533339,ZENTEC,FII/DII HOLDING IS VERY LOW,EMERGING,98.6,10,0,88.6,https://www.screener.in/company/533339/consolidated/
+TRIM,532439,OLECTRA,HIGH P/E RATIO,EMERGING,92.3,6,0,86.3,https://www.screener.in/company/532439/consolidated/
+TRIM,540699,DIXON,LOWER SALES,EMERGING,72.4,2,0,70.4,https://www.screener.in/company/540699/consolidated/
+TRIM,523457,LINDEINDIA,HIGH P/E RATIO,EMERGING,73.3,6,0,67.3,https://www.screener.in/company/523457/consolidated/
+ADD,532406,AVANTEL,close < sma50,LONGTERM,27,6,2,19,https://www.screener.in/company/532406/consolidated/
+TRIM,500114,TITAN,HIGH P/E RATIO,EMERGING,71.1,6,0,65.1,https://www.screener.in/company/500114/consolidated/
+TRIM,500093,CGPOWER,HIGH P/E RATIO,EMERGING,70.4,6,0,64.4,https://www.screener.in/company/500093/consolidated/
+TRIM,517354,HAVELLS,HIGH P/E RATIO,EMERGING,70.1,6,0,64.1,https://www.screener.in/company/517354/consolidated/
+TRIM,517544,CENTUM,FII AND DII ARE SELLING,EMERGING,65.4,2,0,63.4,https://www.screener.in/company/517544/consolidated/
+TRIM,500820,ASIANPAINT,HIGH P/E RATIO,EMERGING,71.9,10,0,61.9,https://www.screener.in/company/500820/consolidated/
+TRIM,500800,TATACONSUM,HIGH P/E RATIO,EMERGING,62.2,2,0,60.2,https://www.screener.in/company/500800/consolidated/
+ADD,500049,BEL,close < sma50,LONGTERM,25,2,2,21,https://www.screener.in/company/500049/consolidated/
+TRIM,542665,NEOGEN,Market CAP is below 5000,EMERGING,64.6,6,0,58.6,https://www.screener.in/company/542665/consolidated/
+TRIM,542651,KPITTECH,HIGH P/E RATIO,EMERGING,68.5,10,0,58.5,https://www.screener.in/company/542651/consolidated/
+TRIM,532454,BHARTIARTL,HIGH P/E RATIO,EMERGING,60,2,0,58,https://www.screener.in/company/532454/consolidated/
+TRIM,524735,HIKAL,LOWER SALES,EMERGING,59.5,2,0,57.5,https://www.screener.in/company/524735/consolidated/
+TRIM,540180,VBL,LOWER SALES,EMERGING,55.5,2,0,53.5,https://www.screener.in/company/540180/consolidated/
+TRIM,542907,PRINCEPIPE,HIGH P/E RATIO,EMERGING,55,2,0,53,https://www.screener.in/company/542907/consolidated/
+TRIM,500043,BATAINDIA,HIGH P/E RATIO,EMERGING,56.9,6,0,50.9,https://www.screener.in/company/500043/consolidated/
+TRIM,542830,IRCTC,HIGH P/E RATIO,EMERGING,51.9,2,0,49.9,https://www.screener.in/company/542830/consolidated/
+TRIM,531642,MARICO,LOWER SALES,EMERGING,50.2,2,0,48.2,https://www.screener.in/company/531642/consolidated/
+TRIM,501455,GREAVESCOT,LOWER SALES,EMERGING,49.6,2,0,47.6,https://www.screener.in/company/501455/consolidated/
+TRIM,539268,SYNGENE,HIGH P/E RATIO,EMERGING,53.6,6,0,47.6,https://www.screener.in/company/539268/consolidated/
+TRIM,533655,TRITURBINE,HIGH P/E RATIO,EMERGING,56.2,10,0,46.2,https://www.screener.in/company/533655/consolidated/
+TRIM,543498,MSUMI,LOWER SALES,EMERGING,48.2,2,0,46.2,https://www.screener.in/company/543498/consolidated/
+TRIM,543275,ANURAS,LOWER SALES,EMERGING,47.3,2,0,45.3,https://www.screener.in/company/543275/consolidated/
+TRIM,532539,UNOMINDA,HIGH P/E RATIO,EMERGING,44.2,2,0,42.2,https://www.screener.in/company/532539/consolidated/
+TRIM,542920,SUMICHEM,LOWER SALES,EMERGING,43.2,2,0,41.2,https://www.screener.in/company/542920/consolidated/
+TRIM,524109,KABRAEXTRU,Market CAP is below 5000,EMERGING,46.1,6,0,40.1,https://www.screener.in/company/524109/consolidated/
+TRIM,532725,SOLARINDS,HIGH P/E RATIO,EMERGING,49.2,10,0,39.2,https://www.screener.in/company/532725/consolidated/
+TRIM,532966,TWL,Market CAP is below 5000,EMERGING,41,2,0,39,https://www.screener.in/company/532966/consolidated/
+TRIM,532605,JBMA,LOWER SALES,EMERGING,40.8,2,0,38.8,https://www.screener.in/company/532605/consolidated/
+TRIM,501301,TATAINVEST,LOWER SALES,EMERGING,39.3,2,0,37.3,https://www.screener.in/company/501301/consolidated/
+TRIM,543277,LXCHEM,HIGH P/E RATIO,EMERGING,42.5,6,0,36.5,https://www.screener.in/company/543277/consolidated/
+TRIM,531717,VIDHIING,FII/DII HOLDING IS VERY LOW,EMERGING,38.3,2,0,36.3,https://www.screener.in/company/531717/consolidated/
+ADD,532488,DIVISLAB,close <= sma50 and rsi_val <= 40,LONGTERM,31,2,6,23,https://www.screener.in/company/532488/consolidated/
+TRIM,517334,MOTHERSON,HIGH P/E RATIO,EMERGING,45,10,0,35,https://www.screener.in/company/517334/consolidated/
+TRIM,533298,SURANASOL,FII/DII HOLDING IS VERY LOW,EMERGING,36.8,2,0,34.8,https://www.screener.in/company/533298/consolidated/
+TRIM,517035,RIR,LOWER SALES,EMERGING,36.5,2,0,34.5,https://www.screener.in/company/517035/consolidated/
+TRIM,543398,LATENTVIEW,HIGH P/E RATIO,EMERGING,43,10,0,33,https://www.screener.in/company/543398/consolidated/
+TRIM,500425,AMBUJACEM,HIGH P/E RATIO,EMERGING,36.5,6,0,30.5,https://www.screener.in/company/500425/consolidated/
+TRIM,539807,INFIBEAM,LOWER SALES,EMERGING,32.1,2,0,30.1,https://www.screener.in/company/539807/consolidated/
+TRIM,500003,AEGISCHEM,LOWER SALES,EMERGING,31.8,2,0,29.8,https://www.screener.in/company/500003/consolidated/
+TRIM,503806,SRF,LOWER SALES,EMERGING,31,2,0,29,https://www.screener.in/company/503806/consolidated/
+TRIM,533333,FCL,FII AND DII ARE SELLING,EMERGING,30.7,2,0,28.7,https://www.screener.in/company/533333/consolidated/
+TRIM,540611,AUBANK,,EMERGING,29.2,2,0,27.2,https://www.screener.in/company/540611/consolidated/
+TRIM,524000,POONAWALLA,FII AND DII ARE SELLING,EMERGING,36.8,10,0,26.8,https://www.screener.in/company/524000/consolidated/
+TRIM,532921,ADANIPORTS,FII AND DII ARE SELLING,EMERGING,28.4,2,0,26.4,https://www.screener.in/company/532921/consolidated/
+TRIM,543064,SUVENPHAR,HIGH P/E RATIO,EMERGING,31.8,6,0,25.8,https://www.screener.in/company/543064/consolidated/
+TRIM,542812,FLUOROCHEM,LOWER SALES,EMERGING,27.6,2,0,25.6,https://www.screener.in/company/542812/consolidated/
+TRIM,542141,TECHNOE,LOWER SALES,EMERGING,26.6,2,0,24.6,https://www.screener.in/company/542141/consolidated/
+TRIM,524091,CARYSIL,LOWER SALES,EMERGING,26.3,2,0,24.3,https://www.screener.in/company/524091/consolidated/
+TRIM,500135,EPL,LOWER SALES,EMERGING,25.9,2,0,23.9,https://www.screener.in/company/500135/consolidated/
+TRIM,517271,HBLPOWER,Market CAP is below 5000,EMERGING,28.7,6,0,22.7,https://www.screener.in/company/517271/consolidated/
+TRIM,540879,APOLLO,Market CAP is below 5000,EMERGING,28.7,6,0,22.7,https://www.screener.in/company/540879/consolidated/
+TRIM,532301,TATACOFFEE,Market CAP is below 5000,EMERGING,24.6,2,0,22.6,https://www.screener.in/company/532301/consolidated/
+TRIM,500325,RELIANCE,LOWER SALES,EMERGING,23.6,2,0,21.6,https://www.screener.in/company/500325/consolidated/
+TRIM,500184,HSCL,LOWER SALES,EMERGING,22.4,2,0,20.4,https://www.screener.in/company/500184/consolidated/
+TRIM,543399,TARSONS,Market CAP is below 5000,EMERGING,30.2,10,0,20.2,https://www.screener.in/company/543399/consolidated/
+TRIM,540293,PRICOLLTD,LOWER SALES,EMERGING,21.1,2,0,19.1,https://www.screener.in/company/540293/consolidated/
+TRIM,532756,MAHINDCIE,Dropping profits for last 3 quarters,EMERGING,20.5,2,0,18.5,https://www.screener.in/company/532756/consolidated/
+ADD,500048,BEML,close <= sma50 and rsi_val <= 40,LONGTERM,38,6,6,26,https://www.screener.in/company/500048/consolidated/
+TRIM,543271,JUBLINGREA,LOWER SALES,EMERGING,20.2,2,0,18.2,https://www.screener.in/company/543271/consolidated/
+TRIM,538962,MINDACORP,LOWER SALES,EMERGING,19.7,2,0,17.7,https://www.screener.in/company/538962/consolidated/
+TRIM,543265,RAILTEL,Market CAP is below 5000,EMERGING,19.7,2,0,17.7,https://www.screener.in/company/543265/consolidated/
+TRIM,500086,EXIDEIND,LOWER SALES,EMERGING,19.4,2,0,17.4,https://www.screener.in/company/500086/consolidated/
+TRIM,540767,NAM-INDIA,FII AND DII ARE SELLING,EMERGING,19.3,2,0,17.3,https://www.screener.in/company/540767/consolidated/
+TRIM,500483,TATACOMM,Dropping profits for last 3 quarters,EMERGING,18.9,2,0,16.9,https://www.screener.in/company/500483/consolidated/
+ADD,541143,BDL,close < sma50,LONGTERM,34,2,2,30,https://www.screener.in/company/541143/consolidated/
+TRIM,504067,ZENSARTECH,LOWER SALES,EMERGING,18.6,2,0,16.6,https://www.screener.in/company/504067/consolidated/
+TRIM,500730,NOCIL,LOWER SALES,EMERGING,18.4,2,0,16.4,https://www.screener.in/company/500730/consolidated/
+TRIM,532884,REFEX,FII/DII HOLDING IS VERY LOW,EMERGING,17.8,2,0,15.8,https://www.screener.in/company/532884/consolidated/
+TRIM,543387,SJS,LOWER SALES,EMERGING,17.8,2,0,15.8,https://www.screener.in/company/543387/consolidated/
+ADD,500477,ASHOKLEY,close <= sma50 and rsi_val <= 40,LONGTERM,55,10,6,39,https://www.screener.in/company/500477/consolidated/
+TRIM,530999,BALAMINES,LOWER SALES,EMERGING,16.8,2,0,14.8,https://www.screener.in/company/530999/consolidated/
+TRIM,541195,MIDHANI,Market CAP is below 5000,EMERGING,20.7,6,0,14.7,https://www.screener.in/company/541195/consolidated/
+ADD,543270,MTARTECH,close <= sma50 and rsi_val <= 40,LONGTERM,55,10,6,39,https://www.screener.in/company/543270/consolidated/
+TRIM,540078,MITSU,Market CAP is below 5000,EMERGING,15.7,2,0,13.7,https://www.screener.in/company/540078/consolidated/
+TRIM,532768,FIEMIND,LOWER SALES,EMERGING,15.5,2,0,13.5,https://www.screener.in/company/532768/consolidated/
+TRIM,543243,EQUITASBNK,PROMOTOR HOLDING IS VERY LOW,EMERGING,15,2,0,13,https://www.screener.in/company/543243/consolidated/
+TRIM,543233,CHEMCON,FII/DII HOLDING IS VERY LOW,EMERGING,14.4,2,0,12.4,https://www.screener.in/company/543233/consolidated/
+TRIM,526829,CONFIPET,Market CAP is below 5000,EMERGING,22.2,10,0,12.2,https://www.screener.in/company/526829/consolidated/
+TRIM,543526,LICI,FII/DII HOLDING IS VERY LOW,EMERGING,13.5,2,0,11.5,https://www.screener.in/company/543526/consolidated/
+TRIM,506685,ULTRAMAR,FII/DII HOLDING IS VERY LOW,EMERGING,13.2,2,0,11.2,https://www.screener.in/company/506685/consolidated/
+TRIM,532630,GOKEX,PROMOTOR HOLDING IS VERY LOW,EMERGING,12.5,2,0,10.5,https://www.screener.in/company/532630/consolidated/
+TRIM,511196,CANFINHOME,,EMERGING,12.2,2,0,10.2,https://www.screener.in/company/511196/consolidated/
+TRIM,500405,SPLPETRO,LOWER SALES,EMERGING,12,2,0,10,https://www.screener.in/company/500405/consolidated/
+TRIM,500770,TATACHEM,FII AND DII ARE SELLING,EMERGING,11.9,2,0,9.9,https://www.screener.in/company/500770/consolidated/
+TRIM,543322,GLS,FII AND DII ARE SELLING,EMERGING,11.9,2,0,9.9,https://www.screener.in/company/543322/consolidated/
+TRIM,531209,NUCLEUS,Market CAP is below 5000,EMERGING,19.9,10,0,9.9,https://www.screener.in/company/531209/consolidated/
+TRIM,526729,GOLDIAM,FII/DII HOLDING IS VERY LOW,EMERGING,15.7,6,0,9.7,https://www.screener.in/company/526729/consolidated/
+TRIM,532466,OFSS,FII AND DII ARE SELLING,EMERGING,15.5,6,0,9.5,https://www.screener.in/company/532466/consolidated/
+TRIM,541153,BANDHANBNK,FII AND DII ARE SELLING,EMERGING,10.2,2,0,8.2,https://www.screener.in/company/541153/consolidated/
+ADD,543367,PARAS,close < sma50,LONGTERM,55,6,2,47,https://www.screener.in/company/543367/consolidated/
+TRIM,532522,PETRONET,LOWER SALES,EMERGING,9.97,2,0,7.97,https://www.screener.in/company/532522/consolidated/
+TRIM,533282,GRAVITA,Market CAP is below 5000,EMERGING,17.9,10,0,7.9,https://www.screener.in/company/533282/consolidated/
+TRIM,532702,GSPL,LOWER SALES,EMERGING,8.91,2,0,6.91,https://www.screener.in/company/532702/consolidated/
+TRIM,532155,GAIL,LOWER SALES,EMERGING,8.61,2,0,6.61,https://www.screener.in/company/532155/consolidated/
+TRIM,500052,BEPL,FII/DII HOLDING IS VERY LOW,EMERGING,8.39,2,0,6.39,https://www.screener.in/company/500052/consolidated/
+TRIM,500268,MANALIPETC,LOWER SALES,EMERGING,8.35,2,0,6.35,https://www.screener.in/company/500268/consolidated/
+TRIM,530001,GUJALKALI,LOWER SALES,EMERGING,7.95,2,0,5.95,https://www.screener.in/company/530001/consolidated/
+TRIM,543331,MOL,LOWER SALES,EMERGING,7.86,2,0,5.86,https://www.screener.in/company/543331/consolidated/
+TRIM,532234,NATIONALUM,LOWER SALES,EMERGING,7.77,2,0,5.77,https://www.screener.in/company/532234/consolidated/
+TRIM,500265,MAHSEAMLES,LOWER SALES,EMERGING,7.7,2,0,5.7,https://www.screener.in/company/500265/consolidated/
+TRIM,524051,POLYPLEX,FII AND DII ARE SELLING,EMERGING,7.54,2,0,5.54,https://www.screener.in/company/524051/consolidated/
+TRIM,500470,TATASTEEL,LOWER SALES,EMERGING,7.4,2,0,5.4,https://www.screener.in/company/500470/consolidated/
+ADD,543300,SONACOMS,close <= sma50 and rsi_val <= 40,LONGTERM,64,10,6,48,https://www.screener.in/company/543300/consolidated/
+TRIM,531213,MANAPPURAM,,EMERGING,7.09,2,0,5.09,https://www.screener.in/company/531213/consolidated/
+TRIM,524820,PANAMAPET,LOWER SALES,EMERGING,7.05,2,0,5.05,https://www.screener.in/company/524820/consolidated/
+TRIM,543299,SHYAMMETL,LOWER SALES,EMERGING,6.97,2,0,4.97,https://www.screener.in/company/543299/consolidated/
+TRIM,524404,MARKSANS,Market CAP is below 5000,EMERGING,14.7,10,0,4.7,https://www.screener.in/company/524404/consolidated/
+TRIM,539177,AIIL,LOWER SALES,EMERGING,6.67,2,0,4.67,https://www.screener.in/company/539177/consolidated/
+TRIM,500777,TNPETRO,LOWER SALES,EMERGING,6.34,2,0,4.34,https://www.screener.in/company/500777/consolidated/
+TRIM,538567,GULFOILLUB,Market CAP is below 5000,EMERGING,8.46,6,0,2.46,https://www.screener.in/company/538567/consolidated/
+TRIM,500171,GHCL,PROMOTOR HOLDING IS VERY LOW,EMERGING,4.4,2,0,2.4,https://www.screener.in/company/500171/consolidated/
+TRIM,500620,GESHIP,LOWER SALES,EMERGING,4.33,2,0,2.33,https://www.screener.in/company/500620/consolidated/
+TRIM,540755,GICRE,LOWER SALES,EMERGING,3.87,2,0,1.87,https://www.screener.in/company/540755/consolidated/
+TRIM,500112,SBIN,Poor ROE and ROCE,EMERGING,10,10,0,0,https://www.screener.in/company/500112/consolidated/
+TRIM,532181,GMDCLTD,Market CAP is below 5000,EMERGING,4.62,6,0,-1.38,https://www.screener.in/company/532181/consolidated/
+TRIM,513269,MANINDS,Market CAP is below 5000,EMERGING,7.98,10,0,-2.02,https://www.screener.in/company/513269/consolidated/
+TRIM,532134,BANKBARODA,Poor ROE and ROCE,EMERGING,7.09,10,0,-2.91,https://www.screener.in/company/532134/consolidated/
+TRIM,532368,BCG,PROMOTOR HOLDING IS VERY LOW,EMERGING,2.6,10,0,-7.4,https://www.screener.in/company/532368/consolidated/
+TRIM,500185,HCC,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/500185/consolidated/
+TRIM,530477,VIKRAMTH,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/530477/consolidated/
+TRIM,532348,SUBEXLTD,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/532348/consolidated/
+TRIM,532822,IDEA,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/532822/consolidated/
+TRIM,533107,RNAVAL,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/533107/consolidated/
+TRIM,540595,TEJASNET,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/540595/consolidated/
+TRIM,540702,LASA,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/540702/consolidated/
+TRIM,541313,ICICI500,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/541313/consolidated/
+TRIM,543365,MASPTOP50,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/543365/consolidated/
+TRIM,543450,ICICIAUTO,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/543450/consolidated/
+TRIM,543481,MAM150ETF,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/543481/consolidated/
+ADD,500493,BHARATFORG,close <= sma50 and rsi_val <= 40,LONGTERM,60,2,6,52,https://www.screener.in/company/500493/consolidated/
+TRIM,543571,ICICIINFRA,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/543571/consolidated/
+TRIM,590098,SETFGOLD,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/590098/consolidated/
+TRIM,590108,PSUBNKBEES,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/590108/consolidated/
+TRIM,590137,SETFNIFBK,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/590137/consolidated/
+TRIM,590138,SETFNIF50,NA,EMERGING,-999,2,0,-1001,https://www.screener.in/company/590138/consolidated/
